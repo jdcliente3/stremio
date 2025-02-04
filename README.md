@@ -1,0 +1,2 @@
+# stremio
+Addons para stremio
