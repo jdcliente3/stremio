@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "custom:42464",
+    "type": "movie",
+    "name": "Meu Filme Personalizado",
+    "poster": "https://cinema10.com.br/upload/filmes/filmes_12810_01-1.jpg",
+    "background": "https://cinema10.com.br/upload/filmes/filmes_1841_Jack-Cacador-de-Gigantes-Poster.jpg",
+    "description": "Filme de teste",
+    "runtime": "135 min"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sp.jdinformatica.com/stremio",
+  "version": "1.0.0",
+  "name": "jdvideo",
+  "description": "Addon personalizado JD",
+  "types": ["movie"],
+  "resources": ["stream"],
+  "idPrefixes": ["custom"]
+}
